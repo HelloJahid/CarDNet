@@ -7,5 +7,5 @@ $$
 M(F) = \sigma(M_s(F) + M_c(F))
 $$
 
-![Example Image](utils/cam.png)
+![Example Image](utils/cam.jpeg)
 
