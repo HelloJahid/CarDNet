@@ -66,14 +66,11 @@ To address these challenges, we propose **CarDNet**, a CNN-Attention based netwo
 
 We gratefully acknowledge the support of our collaborators and partners:  
 
-✨ [**Carsales.com Ltd**](https://www.carsales.com.au/)  
-Providing industry dataset access and invaluable guidance.  
+- [**Carsales.com Ltd**](https://www.carsales.com.au/)  Providing industry dataset access and invaluable guidance.  
 
-📂 [**CarDD Dataset**](https://cardd-ustc.github.io/)  
-Offering a public benchmark for rigorous evaluation.  
+- [**CarDD Dataset**](https://cardd-ustc.github.io/)  Offering a public benchmark for rigorous evaluation.  
 
-🏛️ [**RMIT Enterprise AI and Data Analytics Hub**  ](https://rmit-aihub.org.au/)
-For experimental environments, recommendations, and research insights.  
+- [**RMIT Enterprise AI and Data Analytics Hub**  ](https://rmit-aihub.org.au/) For experimental environments, recommendations, and research insights.  
 
 ---
 
