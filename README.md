@@ -14,7 +14,7 @@ To address these challenges, we propose **CarDNet**, a CNN-Attention based netwo
 
 ---
 
-## 🔍 Key Contributions  
+##  Key Contributions  
 
 1. **High-Quality Dataset**  
    - Curated a diverse, annotated, and balanced dataset combining **Carsales private data** and the public **CarDD dataset**.  
@@ -40,7 +40,7 @@ To address these challenges, we propose **CarDNet**, a CNN-Attention based netwo
 
 ---
 
-## 📊 Results  
+##  Results  
 
 - **Validation Accuracy:** 98.56%  
 - **Test Accuracy:** 97%  
@@ -50,7 +50,7 @@ To address these challenges, we propose **CarDNet**, a CNN-Attention based netwo
 
 ---
 
-## 🏗️ Model Architecture  
+##  Model Architecture  
 
 <p align="center">
   <img src="utils/cam.jpeg" alt="CarDNet Architecture" width="600">
